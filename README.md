@@ -1,0 +1,1 @@
+This repositiry represents basic sample works created for the purpose of completing my coursework and have uploaded it to Github to represent my professional capacity. As time goes on more projects will be included.
